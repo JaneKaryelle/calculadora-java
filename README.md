@@ -2,7 +2,7 @@
 
 Projeto de uma calculadora desktop desenvolvida em Java, focada na aplicação de **Padrões de Projeto (Design Patterns)** e conceitos modernos da linguagem.
 
-
+<img width="234" height="317" alt="Image" src="https://github.com/user-attachments/assets/ae2dc4e9-1b39-4af4-96a3-28b3ecc0e692" />
 
 ## 🚀 Tecnologias e Conceitos Aplicados
 
